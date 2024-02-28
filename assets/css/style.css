@@ -1,0 +1,33 @@
+.card-musica{
+    background-color: #112030c5;
+    --gap: 3rem;
+    --columns: 3;
+    flex-basis: calc((100% / var(--columns)) - var(--gap) + (var(--gap) / var(--columns)));
+    padding-inline: 1rem;
+
+}
+
+#web-app{
+    height: 100vh;
+}
+
+header{
+    background-color: #06131f;
+    height: 10vh;
+}
+
+#logo{
+    width: 5%;
+}
+
+#music-container{
+    background-color: #1d2d3c;
+    padding-inline: 30rem;
+    padding-block: 3rem;
+    height: 90vh;
+}
+
+.poster{
+    width: 150px;
+    aspect-ratio: 1;
+}
