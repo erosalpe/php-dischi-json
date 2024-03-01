@@ -11,7 +11,7 @@ createApp({
     this.readList()
   },
   methods: {
-    readMusicList(){
+    readList(){
         axios.get( this.apiUrl )
             .then( (response) => {
                 this.musicList = response.data

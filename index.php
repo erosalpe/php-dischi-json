@@ -37,6 +37,6 @@
 
     <script src='https://cdnjs.cloudflare.com/ajax/libs/vue/3.4.20/vue.global.js' integrity='sha512-pPXd5TKY+7vxrCO8KVHANw6Fhq7q3ibyhjQbQvFPRI+j+W3FKEc/jm0UfgefzfUGJnGrt1L29jOtIgVUY5KdSQ==' crossorigin='anonymous'></script>
     <script src='https://cdnjs.cloudflare.com/ajax/libs/axios/1.6.7/axios.min.js' integrity='sha512-NQfB/bDaB8kaSXF8E77JjhHG5PM6XVRxvHzkZiwl3ddWCEPBa23T76MuWSwAJdMGJnmQqM0VeY9kFszsrBEFrQ==' crossorigin='anonymous'></script>
-    <script src="./assets/js/main.js"></script>
+    <script src="./main.js"></script>
 </body>
 </html>
